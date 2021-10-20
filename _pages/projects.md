@@ -5,7 +5,15 @@ title: Projects
 ---
 
 <div class="posts">
-  {% for post in site.categories[Miscellaneous] %}
+  {% for tag in site.tags %}
+    <h3>{{ tag[0] }}</h3>
+    <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  {% endfor %}
+  {% for post in site.categories %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
