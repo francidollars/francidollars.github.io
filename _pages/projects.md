@@ -5,7 +5,7 @@ title: Projects
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.categoriesp[Miscellaneous] %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
