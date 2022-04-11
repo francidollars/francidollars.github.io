@@ -3,12 +3,10 @@ layout: post
 title: MIPS Hardware-Scheduled Pipelined Processor
 categories: Projects
 ---
-<div>
-	WE ARE Trying Something!
-</div>
-
 Description:
+<div>
 	CPRE 381 semester long project simulating pipelined processor based on MIPS instruction set. Components were built and learned about in phases and individually tested at each step in creation
+</div>
 
 Role:
 	Partnership
