@@ -4,8 +4,7 @@ title: Online Multiplayer Euchre App
 categories: Projects
 ---
 Description:
-
-Project to create a online multiplayer android application based on the card game euchre. This application would allow the user to create a account with the application enabling the user to create or join ongoing euchre games with three other players. All game logic and turns are handled by the application, with restrictions in place to align with the rules of the game.
+	Project to create a online multiplayer android application based on the card game euchre. This application would allow the user to create a account with the application enabling the user to create or join ongoing euchre games with three other players. All game logic and turns are handled by the application, with restrictions in place to align with the rules of the game.
 
 User account information is stored within a SQL database within the backend server of the app. This allows the user to login to already existing accounts, well also restricting duplicate accounts. The application also allows for users to communicate with others via a post-game chat room where users can discuss the game and share "gg"s.
 
