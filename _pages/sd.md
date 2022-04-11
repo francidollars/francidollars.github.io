@@ -7,6 +7,8 @@ permalink: /sd/
 ## Overview
 Partnering with the ISU Electric Power Research Center our team had been tasked to create a mobile application to retrieve and present crate energy data to serve as an efficient way for users to analyze the efficiency of power collection remotely.
 
+![alt](/images/crate_pic.png) | ![alt](/images/crateVisit3.jpg)
+
 ### My Role
 Team Lead / Backend Engineer
 
