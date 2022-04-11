@@ -12,20 +12,18 @@ layout: default
 </div>
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
+  <article class="post">
+    <a href="{{ site.baseurl }}{{ paginator.posts.url }}">
+      <h1>{{ paginator.posts.title }}</h1>
+      <div>
+        <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
       </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+    </a>
+    <div class="entry">
+      {{ paginator.posts.excerpt }}
+    </div>
+    <a href="{{ site.baseurl }}{{ paginator.posts.url }}" class="read-more">Read More</a>
+  </article>
 
 
   <!-- pagination -->
