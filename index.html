@@ -11,7 +11,8 @@ layout: default
   </p>
 </div>
 
-{% if (post = (paginator.posts | first)) != 0 %}
+{% assign post = (paginator.posts | first) %}
+{% if post %}
   <div class="posts">
     <article class="post">
      <a href="{{ site.baseurl }}{{ post.url }}">
