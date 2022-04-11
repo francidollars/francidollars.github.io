@@ -5,7 +5,7 @@ permalink: /sd/
 ---
 
 ## Overview
-Partnering with the ISU Electric Power Research Center our team had been tasked to create a mobile application to retrieve and present crate energy data to serve as an efficient way for users to analyze the efficiency of power collection remotely.
+Partnering with the ISU Electric Power Research Center our team had been tasked to create a mobile application to retrieve and present solar crate energy data from an array of measurment devices to serve as an efficient way for users to analyze the efficiency of power collection remotely. This application's primary objective was to serve as a intuitive way to store data collected as well as present live data of the current readings at the crate.
 
 <div style="display:flex;align-items:center;">
   <div style="flex:50%;padding:5px;">
@@ -15,7 +15,6 @@ Partnering with the ISU Electric Power Research Center our team had been tasked 
     <img src="/images/crateVisit3.jpg" style="width:100%;">
   </div>
 </div>
-
 
 ### My Role
 Team Lead / Backend Engineer
