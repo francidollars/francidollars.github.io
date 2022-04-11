@@ -9,10 +9,10 @@ Partnering with the ISU Electric Power Research Center our team had been tasked 
 
 <div style="display:flex;">
   <div style="flex:50%;padding:5px;">
-    <img src="/images/crate_pic.png">
+    <img src="/images/crate_pic.png" style="width:100%;">
   </div>
   <div style="flex:50%;padding:5px;">
-    <img src="/images/crateVisit3.jpg">
+    <img src="/images/crateVisit3.jpg" style="width:100%;">
   </div>
 </div>
 
