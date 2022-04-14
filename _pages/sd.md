@@ -26,7 +26,6 @@ Help design backend components, establishing connections to crate, database, and
 Spring Boot, Leadership skills in engineering setting, project management
 
 Documents:
-
 <div style="text-align:center;">
   <video width="560" height="315" controls>
     <source src="/videos/DemoV2 _com.mp4" type="video/mp4">
@@ -34,4 +33,5 @@ Documents:
 </div>
 
 <a href="/documents/sd-design_document.pdf">Project Design Document</a>
+
 <a href="/documents/sddec21-21_poster.pdf">Project Poster</a>
