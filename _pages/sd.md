@@ -27,7 +27,9 @@ Spring Boot, Leadership skills in engineering setting, project management
 
 Documents:
 
-<iframe width="560" height="315" src="/videos/DemoV2 _com.mp4" style=""></iframe>
+<video width="560" height="315">
+  <source src="/videos/DemoV2 _com.mp4">
+</video>
 
 <a href="/documents/sd-design_document.pdf">Project Design Document</a>
 <a href="/documents/sddec21-21_poster.pdf">Project Poster</a>
