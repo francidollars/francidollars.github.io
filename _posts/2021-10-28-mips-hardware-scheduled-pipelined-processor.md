@@ -4,12 +4,12 @@ title: MIPS Hardware-Scheduled Pipelined Processor
 categories: Projects
 ---
 Description:
+CPRE 381 semester long project building a single cycle and pipelined processor based on MIPS architecture. Components were built and studied in phases, individually tested at each step in construction. These components include 32-bit ALU (arithmetic logic unit), processor registers, and control unit to decode instructions given. These modules were created using VHDL, which is a hardware description language used to simulate dataflow and implement logic gates and connections between abstracted components. 
 
-CPRE 381 semester long project simulating pipelined processor based on MIPS instruction set. Components were built and learned about in phases and individually tested at each step in creation
-
+ModelSim by Siemens was used to simulate and debug our VHDL code. Through this project I had learned about the interworkings of a CPU and the importance of abstraction in computing. The project gave me a complete hands on experience in building computing components that I had not had prior to this project in my academic career. 
 
 Role:
-	Partnership
+	Partnership, system design / programmer
 
 Skills Obtained:
 	Assembly level programming, simulating components via VHDL, abstract circuity design
