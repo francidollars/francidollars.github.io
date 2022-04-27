@@ -4,6 +4,4 @@ permalink: /resume/
 title: Resume
 ---
 
-<embed src="/documents/Resume-MichaelDoyle.pdf" type="application/pdf"></embed>
-
-<iframe src="/documents/Resume-MichaelDoyle.pdf"></iframe>
+<iframe src="/documents/Resume-MichaelDoyle.pdf" width="100%" height="600px"></iframe>
