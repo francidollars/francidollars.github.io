@@ -10,6 +10,12 @@ User account information is stored within a SQL database within the backend serv
 
 To develop this application the team utilized Spring Boot to provide backend framework to establish game logic and interact with SQL Database for account information. The frontend of the applcation was created using Android Studio establishing the UI and allowing the user to modify settings like the theme of the applciation.
 
+<div style="text-align:center;">
+  <video width="560" height="315" controls>
+    <source src="/videos/Euchre_Video_com.mp4" type="video/mp4">
+  </video>
+</div>
+
 Role:
 	Team Project, Backend Engineer
 		My role within this project was to implement the logic of a euchre game into the application. This required writing java methods to establish this logic, as well as, develop a way for all users within a euchre match to stay synced together with all the events ongoing within a game. Due to my contributions to this project, and my communication skills amongst team members and our team's teaching assistant, I was awarded with an 'Outstanding Team Lead' honor.
