@@ -11,6 +11,9 @@ Use C-Programming on Tiva™ TM4C123GH6PM Microcontroller to control roomba navi
   <div style="flex:50%;padding:5px;">
     <img src="/images/cpre288_roomba.jpg" style="width:100%;">
   </div>
+  <div style="flex:50%;padding:5px;">
+    <img src="/images/cpre288_action.jpg" style="width:100%;">
+  </div>
 </div>
 
 Over the course of the semester, we created different aspects of the project necessary to complete this task. The main aspects include coding for driving the physical roomba and creating a program to take in data from an existing ir sensor and data from a additional sonar.
