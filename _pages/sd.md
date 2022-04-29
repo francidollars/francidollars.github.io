@@ -34,6 +34,7 @@ Help design backend components, establishing connections to crate, database, and
 Spring Boot, Leadership skills in engineering setting, project management
 
 Documents:
+
 Below you will find a video demostration of our finalized live version of our application :)
 
 <div style="text-align:center;">
