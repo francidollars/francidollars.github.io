@@ -24,6 +24,12 @@ The main components our team had designed and were tasked to create are as follo
 * A mobile app to display and interact with this data. This will be an iOS and Android mobile application. It will allow users to see not just current data readings from the microgrid, but also query and view ranges of previous data for the microgrid.
 * A server to manage the data between the aggregator, database, and mobile app. This will allow the different pieces of the application to communicate between each other and maintain the integrity of the system.
 
+<div style="display:flex;align-items:center;">
+  <div style="padding:5px;">
+    <img src="/images/Diagram(V3).png" style="width:100%;">
+  </div>
+</div>
+
 ### My Role
 Team Lead, Backend Engineer
 
