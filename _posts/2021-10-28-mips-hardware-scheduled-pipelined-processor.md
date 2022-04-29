@@ -8,7 +8,7 @@ CPRE 381 semester long project building a single cycle and pipelined processor b
 
 ModelSim by Siemens was used to simulate and debug our VHDL code. Through this project I had learned about the interworkings of a CPU and the importance of abstraction in computing. The project gave me a complete hands on experience in building computing components that I had not had prior to this project in my academic career.
 
-Below is a pdf of the on-paper schematic of our finalized processor design. This pdf highlights all of the inputs and outputs and components of our processor design.
+Below is a pdf of the on-paper schematic of our finalized pipelined processor design. This pdf highlights all of the inputs and outputs and components of our processor design.
 
 <iframe src="/documents/Pipelined_Processor_DesignPhase_2.pdf" width="100%" height="600px"></iframe>
 
